@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Gamedev\\Zeldan\u0027t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\DataStructure.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\DataStructure.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\Tile.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\Tile.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|C:\\Gamedev\\Zeldan\u0027t\\src\\map.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C762465-B565-4518-AFC6-6BA12DD3E82F}|src\\src.vcxproj|solutionrelative:src\\map.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 130,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.hpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\game.hpp",
+              "RelativeDocumentMoniker": "src\\game.hpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\game.hpp",
+              "RelativeToolTip": "src\\game.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T17:23:11.712Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "camera.hpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\camera.hpp",
+              "RelativeDocumentMoniker": "src\\camera.hpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\camera.hpp",
+              "RelativeToolTip": "src\\camera.hpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T18:10:16.887Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\camera.cpp",
+              "RelativeDocumentMoniker": "src\\camera.cpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\camera.cpp",
+              "RelativeToolTip": "src\\camera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T18:10:07.82Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\game.cpp",
+              "RelativeDocumentMoniker": "src\\game.cpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\game.cpp",
+              "RelativeToolTip": "src\\game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T03:35:41.393Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAowBIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T05:25:39.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tile.hpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\Tile.hpp",
+              "RelativeDocumentMoniker": "src\\Tile.hpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\Tile.hpp",
+              "RelativeToolTip": "src\\Tile.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T18:29:54.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T17:33:09.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\Tile.cpp",
+              "RelativeDocumentMoniker": "src\\Tile.cpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\Tile.cpp",
+              "RelativeToolTip": "src\\Tile.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T17:51:49.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "map.cpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\map.cpp",
+              "RelativeDocumentMoniker": "src\\map.cpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\map.cpp",
+              "RelativeToolTip": "src\\map.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T17:41:49.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataStructure.hpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\DataStructure.hpp",
+              "RelativeDocumentMoniker": "src\\DataStructure.hpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\DataStructure.hpp",
+              "RelativeToolTip": "src\\DataStructure.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T17:23:14.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "map.hpp",
+              "DocumentMoniker": "C:\\Gamedev\\Zeldan\u0027t\\src\\map.hpp",
+              "RelativeDocumentMoniker": "src\\map.hpp",
+              "ToolTip": "C:\\Gamedev\\Zeldan\u0027t\\src\\map.hpp",
+              "RelativeToolTip": "src\\map.hpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T17:22:51.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

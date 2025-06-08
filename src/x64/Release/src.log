@@ -1,0 +1,7 @@
+﻿  game.cpp
+  main.cpp
+  map.cpp
+  TextureManager.cpp
+  Tile.cpp
+game.obj : error LNK2001: símbolo externo "public: __cdecl Tile::~Tile(void)" (??1Tile@@QEAA@XZ) sin resolver
+C:\Gamedev\Zeldan't\x64\Release\src.exe : fatal error LNK1120: 1 externos sin resolver
